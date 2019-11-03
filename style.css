@@ -1,0 +1,9 @@
+div {
+  width: 200px;
+  border: 16px solid orange; 
+  padding: 32px 64px;
+  background: yellow;
+  background-clip: padding-box;
+  margin: 10px 20px;
+
+}
